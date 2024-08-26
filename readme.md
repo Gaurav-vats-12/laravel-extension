@@ -8,7 +8,6 @@
 [![Total Downloads](https://poser.pugx.org/laravel-plus/extension/d/total.svg)](https://packagist.org/packages/laravel-plus/extension)
 [![Software License](https://poser.pugx.org/laravel-plus/extension/license.svg)](https://packagist.org/packages/laravel-plus/extension)
 
-[日本語ドキュメント - Japanese](readme-ja.md)
 
 ## Features
 
@@ -626,9 +625,6 @@ function index()
 * Require `files` entry in file `addons/{addon-name}/addon.json`.
 * Sees `namespace` entry in file `addons/{addon-name}/addon.php` and establishes class automatic threading based on PSR-4 agreement to all directories specified as `directories`.
 
-## Author
-
-古川 文生 / Fumio Furukawa (fumio@jumilla.me)
 
 ## License
 
